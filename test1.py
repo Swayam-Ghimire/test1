@@ -1,0 +1,1 @@
+# how to print a,b,c,d in python?
